@@ -1,0 +1,21 @@
+### Топ-20 слов для learnprogramming ###
+programming: 65
+like: 65
+code: 58
+learn: 55
+know: 50
+learning: 49
+https: 46
+start: 45
+data: 45
+com: 41
+also: 37
+help: 37
+time: 37
+want: 37
+would: 37
+get: 36
+python: 33
+really: 32
+state: 31
+projects: 29
